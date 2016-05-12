@@ -1,0 +1,36 @@
+{
+  "name": "nodejs-yandex-geocoder",
+  "description": "A lightweight Yandex geocoder library for NodeJS.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Yuriy Bushev <bushevuv@gmail.com>",
+  "contributors": [
+    {
+      "name": "Dmitry Kshevsky",
+      "email": "rudimo@yandex.ru"
+    }
+  ],
+  "keywords": [
+    "geocoder",
+    "yandex"
+  ],
+  "dependencies": {
+    "request": "2.72.0"
+  },
+  "devDependencies": {
+    "mocha": "2.3.3",
+    "should": "8.1.1"
+  },
+  "scripts": {
+    "test": "mocha ./test/index.js"
+  },
+  "engine": "node >= 5.11.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bushev/nodejs-yandex-geocoder"
+  },
+  "bugs": {
+    "url": "https://github.com/bushev/nodejs-yandex-geocoder/issues"
+  },
+  "homepage": "https://github.com/bushev/nodejs-yandex-geocoder"
+}
