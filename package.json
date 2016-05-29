@@ -1,7 +1,7 @@
 {
   "name": "nodejs-yandex-geocoder",
   "description": "A lightweight Yandex geocoder library for NodeJS.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "author": "Yuriy Bushev <bushevuv@gmail.com>",
   "contributors": [
